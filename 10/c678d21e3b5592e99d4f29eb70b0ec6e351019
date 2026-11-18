@@ -1,0 +1,19 @@
+mcps/tday/MCP.yaml
+  s_2c863b3bfb807b::t_6ec6a9969908e9 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "10c678d21e3b5592e99d4f29eb70b0ec6e351019",
+  "prompts": {},
+  "sessions": {
+    "s_2c863b3bfb807b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ecfe-1efc-7d62-8fb4-ccae18f2938c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}

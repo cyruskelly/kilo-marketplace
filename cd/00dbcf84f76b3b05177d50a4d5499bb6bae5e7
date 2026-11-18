@@ -1,0 +1,14 @@
+mcps/tday/MCP.yaml
+  h_da61ae801e8c5c 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cd00dbcf84f76b3b05177d50a4d5499bb6bae5e7",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
